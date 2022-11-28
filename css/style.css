@@ -1232,11 +1232,11 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-offcanvas a {
   color: rgba(255, 255, 255, 0.5);
+  font-size: 22px;
+  line-height: 50px;
 }
 #fh5co-offcanvas a:hover {
   color: rgba(255, 255, 255, 0.8);
-  font-size: 22px;
-  line-height: 50px;
 }
 #fh5co-offcanvas ul {
   padding: 0;
